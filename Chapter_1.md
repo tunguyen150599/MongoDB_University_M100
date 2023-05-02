@@ -1,4 +1,4 @@
-#Lesson 1: Concepts of RDBMS and MongoDB
+# Lesson 1: Concepts of RDBMS and MongoDB
 
 ### 1. Which of the following are some of the main features of MongoDB? (Select all that apply.)
 
